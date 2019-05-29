@@ -23,7 +23,6 @@
     "react": "16.0.0-alpha.12",
     "react-native": "^0.46.1",
     "@expo/vector-icons": "^5.0.0",
-    "axios": "^0.16.1",
     "form-data": "^2.2.0",
     "native-base": "^2.1.4",
     "react-native-router-flux": "^3.39.2",
